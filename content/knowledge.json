@@ -1,0 +1,115 @@
+{
+  "modules": [
+    {
+      "id": "composition",
+      "title": "まず、画像を見る",
+      "text": "下の《神奈川沖浪裏》で、最初に見つかったものは何でしたか。次に富士山を探してみてください。大きな波の向こうに、小さな山が置かれています。近いものと遠いものの大きさを比べると、画面の奥行きや迫力が見えてきます。",
+      "kind": "editorial-observation"
+    },
+    {
+      "id": "woodblock-vs-painting",
+      "title": "版画と肉筆画を分ける",
+      "text": "木版画は、彫った版に色をつけて紙へ摺る絵です。肉筆画は、紙や絹などへ筆で直接描く絵。版画では輪郭や色の面、肉筆画では線の太さや濃淡に目を向けてみましょう。どちらが優れているかではなく、絵を作る方法が違います。",
+      "kind": "basic-knowledge"
+    },
+    {
+      "id": "hokusai",
+      "title": "北斎は、ひとつの作風で止まらなかった",
+      "text": "北斎は1760年に生まれ、1849年に亡くなりました。役者の絵、本の挿絵、絵を学ぶための手本、風景版画、肉筆画と、長い画業の中で仕事の幅を広げています。",
+      "kind": "basic-knowledge"
+    }
+  ],
+  "people": [
+    {
+      "name": "葛飾北斎（1760–1849）",
+      "text": "このページの中心。波の版画以外にも本や肉筆画を手がけた絵師。"
+    },
+    {
+      "name": "勝川春章",
+      "text": "北斎が学んだ師。北斎の出発点として名前だけ紹介する。"
+    },
+    {
+      "name": "魚屋北溪・蹄斎北馬",
+      "text": "北斎の門人。今回の展示にも登場する。「北斎に似ている点と違う点」を探す入口にする。個別の展示時期は公式作品リストで確認する。"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1760",
+      "text": "北斎が生まれる。"
+    },
+    {
+      "year": "1778",
+      "text": "勝川春章に入門。"
+    },
+    {
+      "year": "1814",
+      "text": "『北斎漫画』初編刊行。"
+    },
+    {
+      "year": "1830年代",
+      "text": "『冨嶽三十六景』の制作・刊行の時期。"
+    }
+  ],
+  "referenceWorks": [
+    {
+      "id": "met-45434",
+      "title": "神奈川沖浪裏",
+      "artist": "葛飾北斎",
+      "dateLabel": "1830–32年頃",
+      "museum": "The Metropolitan Museum of Art",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/45434",
+      "downloadUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/45434/134438/main-image",
+      "rights": "CC0 / Public Domain",
+      "rightsVerifiedAt": "2026-10-01",
+      "rightsEvidence": "原仕様で確認済み。実ファイル取得時に再確認。",
+      "usage": "reference",
+      "localImagePath": null,
+      "detailImagePath": null,
+      "width": null,
+      "height": null,
+      "alt": "大きな波、船、その奥に小さな富士山を描いた木版画。",
+      "captionNote": "予習用の参考作品／The Metropolitan Museum of Art所蔵／本展の出品画像ではありません",
+      "acquisitionNote": "取得・最適化は未実施。"
+    },
+    {
+      "id": "met-45813",
+      "title": "関羽（Guan Yu, Chinese God of War）",
+      "artist": "葛飾北斎",
+      "dateLabel": "年代は作品ページで再確認",
+      "museum": "The Metropolitan Museum of Art",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/45813",
+      "downloadUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/45813/2108940/main-image",
+      "rights": "CC0 / Public Domain",
+      "rightsVerifiedAt": "2026-10-01",
+      "rightsEvidence": "原仕様で確認済み。実ファイル取得時に再確認。",
+      "usage": "reference",
+      "localImagePath": null,
+      "detailImagePath": null,
+      "width": null,
+      "height": null,
+      "alt": "関羽の姿を筆の線で描いた肉筆画。",
+      "captionNote": "予習用の参考作品／The Metropolitan Museum of Art所蔵／本展の出品画像ではありません",
+      "acquisitionNote": "取得先は仕様作成時にエラー。作品ページのDownload Imageから取得し、年代と実寸を確認する。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "展示情報・作品紹介・前後期",
+      "url": "https://hokusai-museum.jp/best/"
+    },
+    {
+      "title": "美術館発表のプレスリリース",
+      "url": "https://kyodonewsprwire.jp/release/202607152584"
+    },
+    {
+      "title": "北斎の生涯",
+      "url": "https://hokusai-museum.jp/modules/Page/pages/view/402"
+    },
+    {
+      "title": "Met Open Access",
+      "url": "https://www.metmuseum.org/hubs/open-access"
+    }
+  ]
+}
+
