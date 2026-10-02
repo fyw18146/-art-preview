@@ -1,7 +1,7 @@
-<!-- Site source: fyw18146/-art-preview. Original planning remains in obsidian-vault. -->
+<!-- Site source: chicoriii/-art-preview. Original planning remains in obsidian-vault. -->
 # 美術展の行く前の予習：最小実装
 
-原仕様：[12_美術展予習Webサイト_最小構成.md](https://github.com/fyw18146/obsidian-vault/blob/6f780f93ed8a7c916e3305b541d97b2c7df2d805/00_%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8/12_%E7%BE%8E%E8%A1%93%E5%B1%95%E4%BA%88%E7%BF%92Web%E3%82%B5%E3%82%A4%E3%83%88_%E6%9C%80%E5%B0%8F%E6%A7%8B%E6%88%90.md)  
+原仕様：[12_美術展予習Webサイト_最小構成.md](https://github.com/chicoriii/obsidian-vault/blob/6f780f93ed8a7c916e3305b541d97b2c7df2d805/00_%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8/12_%E7%BE%8E%E8%A1%93%E5%B1%95%E4%BA%88%E7%BF%92Web%E3%82%B5%E3%82%A4%E3%83%88_%E6%9C%80%E5%B0%8F%E6%A7%8B%E6%88%90.md)  
 参照コミット：`6f780f93ed8a7c916e3305b541d97b2c7df2d805`  
 実装日：2026-10-01。`obsidian-vault` のコミット `23755ccceaea732253d532b842a2946a506b19e1` からサイト用の6ファイルだけを独立。原本は変更しない。
 
